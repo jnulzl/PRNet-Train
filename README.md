@@ -4,6 +4,8 @@
 
 # Update
 
+* ``2020-03-25:`` Delete origin forked repository and create new repository
+
 * ``2019-12-29:`` Generate my own trainset
 
     - Step 1: Face alignment and get 68 landmarks by any methods
